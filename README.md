@@ -37,3 +37,36 @@ This project uses a dataset of patient information to estimate medical insurance
 
 ## 📂 Project Structure
 
+health-insurance-predictor/
+├── data/
+│ └── insurance.csv
+├── notebooks/
+│ └── health_insurance.ipynb
+├── screenshots/
+│ └── predicted_vs_actual.png
+├── README.md
+├── requirements.txt
+└── LICENSE
+
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Seaborn
+- Matplotlib
+- Scikit-learn
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/rakesh-suru/health-insurance-predictor.git
+cd health-insurance-predictor
