@@ -35,21 +35,6 @@ This project uses a dataset of patient information to estimate medical insurance
 
 ---
 
-## 📂 Project Structure
-
-health-insurance-predictor/
-├── data/
-│ └── insurance.csv
-├── notebooks/
-│ └── health_insurance.ipynb
-├── screenshots/
-│ └── predicted_vs_actual.png
-├── README.md
-├── requirements.txt
-└── LICENSE
-
-
----
 
 ## 🛠️ Technologies Used
 
