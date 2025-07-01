@@ -7,12 +7,6 @@ A simple Machine Learning project that predicts individual health insurance cost
 
 ---
 
-## 🔍 Demo
-
-<!-- Replace the link below with your image after uploading -->
-![Actual vs Predicted Charges](screenshots/predicted_vs_actual.png)
-
----
 
 ## 📌 Project Overview
 
