@@ -42,10 +42,3 @@ This project uses a dataset of patient information to estimate medical insurance
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/rakesh-suru/health-insurance-predictor.git
-cd health-insurance-predictor
